@@ -5,6 +5,7 @@ A curated list of awesome resources, examples and tutorials for Verse, the progr
 - [Official Resources](#official-resources)
 - [Discord Servers](#discord-servers)
 - [YouTube Channels](#youtube-channels)
+- [Technical Foundations](#technical-foundations)
 
 ## Official Resources
 
@@ -22,3 +23,8 @@ A curated list of awesome resources, examples and tutorials for Verse, the progr
 ## YouTube Channels
 
 - [Wahlbeck Warforge](https://www.youtube.com/@WahlbeckWarforge) - The ultimate channel for learning how to code and make Fortnite games with Unreal Editor for Fortnite (UEFN) and Verse programming language.
+
+## Technical Foundations
+
+- [The Verse Calculus: a Core Calculus for Functional Logic Programming Paper (March 2023)](https://simon.peytonjones.org/assets/pdfs/verse-March23.pdf)
+- [Beyond Functional Programming: The Verse Programming Language (Simon Peyton Jones)](https://www.youtube.com/watch?v=832JF1o7Ck8&t)
