@@ -22,6 +22,7 @@ A curated list of awesome resources, examples and tutorials for Verse, the progr
 
 ## YouTube Channels
 
+- [Fortnite Sensei](https://www.youtube.com/@fortnite_sensei)- Fortnite tutorials and creative videos. Learn how to create entire worlds and games in Fortnite!
 - [Wahlbeck Warforge](https://www.youtube.com/@WahlbeckWarforge) - The ultimate channel for learning how to code and make Fortnite games with Unreal Editor for Fortnite (UEFN) and Verse programming language.
 
 ## Technical Foundations
