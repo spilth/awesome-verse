@@ -16,6 +16,10 @@ A curated list of awesome resources, examples and tutorials for Verse, the progr
 - [Verse API Reference](https://dev.epicgames.com/documentation/en-us/uefn/verse-api)
 - [UEFN Release Notes](https://dev.epicgames.com/documentation/en-us/uefn/whats-new-in-unreal-editor-for-fortnite)
 
+## Code
+
+- [Verse Digests](https://github.com/spilth/uefn-verse-digests) - Fornite, UnrealEngine and Verse digests shipped with UEFN
+
 ## Discord Servers
 
 - [Fortnite Create Official](https://discord.gg/fortnitecreative)
