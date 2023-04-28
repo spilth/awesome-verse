@@ -18,6 +18,7 @@ A curated list of awesome resources, examples and tutorials for Verse, the progr
 
 ## Code
 
+- [Code Snippet Repository](https://dev.epicgames.com/community/fortnite/snippets)
 - [Verse Digests](https://github.com/spilth/uefn-verse-digests) - Fornite, UnrealEngine and Verse digests shipped with UEFN
 
 ## Discord Servers
