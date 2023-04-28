@@ -4,6 +4,7 @@ A curated list of awesome resources, examples and tutorials for Verse, the progr
 
 - [Official Resources](#official-resources)
 - [Discord Servers](#discord-servers)
+- [Reddit](#reddit)
 - [YouTube Channels](#youtube-channels)
 - [Technical Foundations](#technical-foundations)
 
@@ -20,9 +21,15 @@ A curated list of awesome resources, examples and tutorials for Verse, the progr
 - [Fortnite Create Official](https://discord.gg/fortnitecreative)
 - [The Lab - Fortnite Creative](discord.gg/thelabfn) - A group dedicated to sharing information and bugs regarding Fortnite Creative.
 
+## Reddit
+
+- [/r/FortniteCreative](https://www.reddit.com/r/FortniteCreative/) - The developer supported, community run subreddit dedicated to Fortnite Create and Unreal Editor for Fortnite (UEFN) by Epic Games
+- [/r/uefn](https://www.reddit.com/r/uefn/) - Unofficial community for Unreal Editor for Fortnite - Fortnite Creative 2.0 with Verse programming language
+
 ## YouTube Channels
 
 - [Fortnite Sensei](https://www.youtube.com/@fortnite_sensei)- Fortnite tutorials and creative videos. Learn how to create entire worlds and games in Fortnite!
+- [Unreal Engine](https://www.youtube.com/@UnrealEngine)
 - [Wahlbeck Warforge](https://www.youtube.com/@WahlbeckWarforge) - The ultimate channel for learning how to code and make Fortnite games with Unreal Editor for Fortnite (UEFN) and Verse programming language.
 
 ## Technical Foundations
