@@ -24,7 +24,7 @@ A curated list of awesome resources, examples and tutorials for Verse, the progr
 ## Discord Servers
 
 - [Fortnite Create Official](https://discord.gg/fortnitecreative)
-- [The Lab - Fortnite Creative](discord.gg/thelabfn) - A group dedicated to sharing information and bugs regarding Fortnite Creative.
+- [The Lab - Fortnite Creative](https://discord.gg/thelabfn) - A group dedicated to sharing information and bugs regarding Fortnite Creative.
 
 ## Reddit
 
