@@ -3,6 +3,7 @@
 A curated list of awesome resources, examples and tutorials for Verse, the programming language created by Epic Games.
 
 - [Official Resources](#official-resources)
+- [Code](#code)
 - [Discord Servers](#discord-servers)
 - [Reddit](#reddit)
 - [YouTube Channels](#youtube-channels)
