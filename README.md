@@ -20,6 +20,7 @@ A curated list of awesome resources, examples and tutorials for Verse, the progr
 ## Code
 
 - [Code Snippet Repository](https://dev.epicgames.com/community/fortnite/snippets)
+- [kbfngg/uefn](https://github.com/kbfngg/uefn) - A basic repository to accumulate a knowledgebase around UEFN and to track public API diffs.
 - [Verse Digests](https://github.com/spilth/uefn-verse-digests) - Fornite, UnrealEngine and Verse digests shipped with UEFN
 - [Versus](https://verse-book.netlify.app) - This guide aims to aid those wanting to either learn Verse from scratch or deepen their existing knowledge
 
